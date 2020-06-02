@@ -27,7 +27,8 @@ function animateDoor(arr = []) {
   return max;
 }
 
-const testArr = [1, 8, 6, 2, 5, 4, 8, 3, 7];
+// const testArr = [1, 8, 6, 2, 5, 4, 8, 3, 7];
+const testArr = [1, 4, 1, 10, 4];
 
 console.log(forFn(testArr));
 
